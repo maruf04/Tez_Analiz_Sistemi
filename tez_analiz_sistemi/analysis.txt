@@ -1,0 +1,39 @@
+--------------about----------------
+author: ozgens@gmail.com
+program: Microsoft® Word 2016
+producer: Microsoft® Word 2016
+pages: 84
+--------------Font List-------------
+CambriaMath
+ArialMT
+Calibri
+TimesNewRomanPS-ItalicMT
+Wingdings-Regular
+TimesNewRomanPSMT
+Verdana
+TimesNewRomanPS-BoldMT
+SymbolMT
+TimesNewRomanPS-BoldItalicMT
+CourierNewPSMT
+Arial-BoldMT
+-----------------header analysis----------------------
+İÇİNDEKİLER---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+ŞEKİLLER LİSTESİ---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+TABLOLAR LİSTESİ---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+EKLER LİSTESİ---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+SİMGELER VE KISALTMALAR---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+GİRİŞ---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+ÖNERİLER---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+ÖZGEÇMİŞ---->tez dosyasında bulunamadı! (Hata sebebi punto farklılığı veya dosyada bulundurmamasıdır)
+--------------URL--------------
+https://lammps.sandia.gov/cite.html,
+http://www.ks.uiuc.edu/Research/namd/,
+http://www.gromacs.org/,
+http://math.lbl.gov/Voro++/,
+https://code.google.com/p/LATGEN/
+https://ovito.org/,
+http://pajarito.materials.cmu.edu/rollett/27750/L13
+http://www.nvidia.com/object/cuda_
+http://www.grid.org.tr/,
+https://www.ctcms.nist.gov/potentials/,
+http://www.ks.uiuc.edu/Research/VMD/,
